@@ -1,4 +1,6 @@
 # React + Vite
+just login form
+testing javaEE back-end;
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
